@@ -1,3 +1,3 @@
-## Notes
-This project was developed using GitHub Copilot for assistance.
+# CLI Weather App
 
+A Node.js command-line application to fetch real-time weather data.
